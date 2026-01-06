@@ -14,7 +14,7 @@ struct ContentView: View {
                 .resizable()
                 .scaledToFit()
                 .foregroundStyle(.orange)
-            Text("You Are Awesome!")
+            Text("I Am A Developer!")
                 .font(.largeTitle)
                 .fontWeight(.bold)
                 .foregroundStyle(Color(.systemRed))
